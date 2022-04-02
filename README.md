@@ -5,8 +5,8 @@
 ##### NOW
 
 - ✨ Designed & developed last [STEAM On Demand℠](https://steamondemand.org) website & platform;
-- 🏫 Currently working on some fun projects for the education sector 
-- 🏒 Playing lots of hockey on my free time
+- 🏫 Currently working on some fun projects for the education sector; 
+- 🏒 Playing lots of hockey on my free time;
 
 ##### BIO
 
