@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Houston, Texas.
+#### I'm a Full-Stack Web Developer working in Houston, Texas.
 
 ##### NOW
 
