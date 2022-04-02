@@ -13,7 +13,7 @@
 - 🏢 I'm currently leading a team of 3 devs at **Lyricos Learning LLC**
 - ⚙️ I use daily: `.php`, `.js`, `.java`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **ReactJS & Wordpress Communities**
-- 💅 Developed & Designed: [STEAM On Demand℠](https://steamondemand.org), [STEAM Depot℠](https://steamdepot.idealabkids.com), [IDEA Lab Kids™](https://idealabkids.com), [Quran Lessons](https://quranlessons.us), etc…
+- 💅 Designed & Developed: [STEAM On Demand℠](https://steamondemand.org), [STEAM Depot℠](https://steamdepot.idealabkids.com), [IDEA Lab Kids™](https://idealabkids.com), [Quran Lessons](https://quranlessons.us), etc…
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **development**, **design thinking**, **branding**, **react**, **backend architecture**, **etc...**
 - 📫 Reach me: [mabast.n@gmail.com](mailto:mabast.n@gmail.com)
