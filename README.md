@@ -19,7 +19,7 @@
 - 📫 Reach me: [mahmad@na.edu](mailto:mahmad@na.edu)
 - ⚡️ Fun fact: I love playing hockey 🏑 still trying to get good at it ☺ 
 
-</br>
+<br>
 
 <div>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Mabast1&hide_border=true&date_format=j%20M%5B%20Y%5D&background=000&ring=fff&fire=FFA500&sideNums=fff&sideLabels=fff&stroke=fff&currStreakNum=fff&currStreakLabel=fff&dates=fff">
