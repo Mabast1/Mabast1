@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 💜 Helping startups scale through technology, don't ask me just addicted to the process ☺
+- 💜 Helping startups scale through technology... don't ask me just addicted to the process ☺
 - 🏢 I'm currently leading a team of 3 devs at **Lyricos Learning LLC**
 - ⚙️ I use daily: `.php`, `.js`, `.java`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **ReactJS & Wordpress Communities**
