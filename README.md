@@ -12,7 +12,7 @@
 
 - 💜 Helping startups scale through technology... don't ask me just addicted to the process ☺
 - 🏢 I'm currently leading a team of 3 devs at **Lyricos Learning LLC**
-- ⚙️ I use daily: `.php`, `.js`, `.java`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.php`, `.js`, `.java`, `.py`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **ReactJS & Wordpress Communities**
 - 💅 Designed & Developed: [STEAM On Demand℠](https://steamondemand.org), [STEAM Depot℠](https://steamdepot.idealabkids.com), [IDEA Lab Kids™](https://idealabkids.com), [Quran Lessons](https://quranlessons.us), [LEXAClass](https://app.lexaclass.com/organization/178/Idea-Lab-Kids,--Austin), etc…
 - 🌱 Learning all about **Open Source**
