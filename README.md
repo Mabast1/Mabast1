@@ -2,13 +2,13 @@
 
 #### I'm a Full-Stack Web Developer working in Houston, Texas.
 
-##### NOW
+### NOW
 
 - ✨ Designed & developed last [STEAM On Demand℠](https://steamondemand.org) website & platform;
 - 🏫 Currently working on some fun projects for the education sector; 
 - 🏒 Playing lots of hockey on my free time;
 
-##### BIO
+### BIO
 
 - 💜 Helping startups scale through technology... don't ask me just addicted to the process ☺
 - 🏢 I'm currently leading a team of 3 devs at **Lyricos Learning LLC**
