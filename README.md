@@ -78,6 +78,5 @@
 
 <a href="https://twitter.com/Mabast95" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
     <a href="https://www.instagram.com/mabast_95" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/mabast/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=TidbitsJS.TidbitsJS" alt="TidbitsJS :: Visitor's Count" /></p>
 
