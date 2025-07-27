@@ -28,8 +28,8 @@ I specialize in building scalable digital platforms and leading high-performing 
 ### 📡 Connect
 
 - 📫 Reach me: [mabast@octotek.io](mailto:mabast@octotek.io)
-- 🌐 Let us bring your idea to reality: [octotek.dev](https://octotek.io)
-- 🔗 [Twitter](https://twitter.com/Mabast95) | [Instagram](https://www.instagram.com/mabast_95) | [LinkedIn](https://www.linkedin.com/in/mabast/)
+- 🌐 Let us bring your idea to reality: [OctoTEK.io](https://octotek.io)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mabast/) | [Instagram](https://www.instagram.com/mabast_95) | [X](https://twitter.com/Mabast95) 
 
 ---
 
