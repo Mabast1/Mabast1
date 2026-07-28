@@ -52,15 +52,4 @@ When I’m not building code, I’m probably on the ice rink working on my slaps
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
 
-### 🏆 GitHub Stats
-
-<!-- Replace with your actual username -->
-<img src="https://github-readme-stats.vercel.app/api?username=mabast1&count_private=true&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mabast1&theme=tokyonight" width="48%" />
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=mabast1&theme=react-dark" /> -->
-
----
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=mabast1" alt="Visitor badge" /></p>
