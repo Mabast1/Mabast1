@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Mabast
 
-#### 🚀 Full-Stack Engineer | Technical Lead | Creative Technologist based in Houston, TX
+#### 🚀 Full-Stack Principal AI Engineer | Technical Lead | Creative Technologist based in Houston, TX
 
 I specialize in building scalable digital platforms and leading high-performing dev teams across edtech and SaaS sectors. My passion lies in solving real-world problems through clean architecture, design systems, and innovative engineering.
 
