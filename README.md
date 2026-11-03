@@ -36,14 +36,13 @@ I work at the layer where models meet real systems: data contracts, tool interfa
 ### 🛰️ Currently building
 
 **OctoCRM**: a multi-tenant, agentic outbound platform
-- Multi-agent pipelines on **Google ADK** for ICP-driven prospecting, contact enrichment, and sequencing, where each tenant brings its own ICP
+- Multi-agent pipelines for ICP-driven prospecting, contact enrichment, and sequencing, where each tenant brings its own ICP
 - **SDR Lab**: an evaluation harness that benchmarks agents head-to-head against the existing stack before anything ships
 - Five-stage email verification pipeline and a pluggable sending layer built for deliverability at volume
 
 **OctoTEK client systems**: AI integrated into businesses that run on it
 - Agentic automations layered onto existing enterprise stacks across AWS, Azure, Microsoft 365, and Google Workspace
-- Event-driven healthcare messaging: lab results delivered to patients over the **WhatsApp Cloud API** on serverless Firebase
-- Full-stack web and mobile platforms for clients in energy, education, healthcare, and professional services
+- Full-stack AI web and mobile platforms for clients in energy, education, healthcare, and professional services
 
 **STEAM On Demand®**: K-12 STEAM platform used by schools and districts, including kit-gated lesson access for physical product lines
 
